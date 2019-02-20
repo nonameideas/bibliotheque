@@ -5,7 +5,7 @@ Bienvenue sur NoNameIdeas, le projet open-source pour se former sur l'informatiq
 
 ### Architecture
 * [Developpement](/developpement)
-    * Back/Java : _Célébre langage orientée objet par Oracle/Sun Microsysteme__
+    * Back/Java : _Célébre langage orienté objet par Oracle/Sun Microsysteme__
     * Web : _Former vous sur le développement web avec des technologies comme NodeJS, Ruby, .._
 * [Systeme](/systeme)
     * Linux : _Un, deux, trois pingouin ? Bonsoir les linuxiens !_
