@@ -4,8 +4,6 @@
 Bienvenue sur NoNameIdeas, le projet open-source pour se former sur l'informatique.
 
 ### Architecture
-* [Annexe](/annexe)
-    * Vous y trouverez les fichiers relatifs au fonctionnement du site
 * [Developpement](/developpement)
     * Back/Java : _Célèbre langage orienté objet par Oracle/Sun Microsysteme__
     * Web : _Formez-vous sur le développement web avec des technologies telles que NodeJS, Ruby, Python, Java .._
