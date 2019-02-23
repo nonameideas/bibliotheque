@@ -17,7 +17,8 @@
 
 1. Créez une branche pour votre travail
 2. Faites vos modifications
-3. Poussez votre travail et effectuez une *pull request* (PR)
+3. Si vous faîtes un ajout au site, prenez soin que celui-ci soit accessible depuis la page principale
+4. Poussez votre travail et effectuez une *pull request* (PR)
 
 ### Les bonnes pratiques
 
