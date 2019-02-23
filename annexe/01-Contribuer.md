@@ -1,6 +1,6 @@
 ## Comment contribuer à la bibliothèque
 
-### Le principe même du site est l'échange, tout le monde peut effectuer des erreurs et il en va de la responsabilité de tout les utilisateurs de prendre 5 minutes pour relever le(s) problème(s)
+### Le principe même du site est l'échange, tout le monde peut effectuer des erreurs et il en va de la responsabilité de tous les utilisateurs de prendre 5 minutes pour relever le(s) problème(s)
 
 ### Voyons désormais la méthode et les prérequis pour contribuer au site
 
@@ -28,7 +28,7 @@
 
 #### Les commits
 
-- Pour les commits nous suivons le même ordre d'idée que les standars Git, à savoir :
+- Pour les commits nous suivons le même ordre d'idées que les standards Git, à savoir :
     - La première ligne du commit ne doit pas dépasser les 50 caractères
     - Pour éviter les mauvaises interprétations il est préférable que le commit soit en français
     - Si vous fixez une issue vous pouvez la mentionner avec le format nomcommit_issue_x
