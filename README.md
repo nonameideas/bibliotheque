@@ -10,7 +10,7 @@ Bienvenue sur NoNameIdeas, le projet open-source pour se former sur l'informatiq
 * [Systeme](/systeme)
     * Linux : _Un, deux, trois pingouin ? Bonsoir les linuxiens !_
     * MacOS : _Le fameux système d'exploitation de la Pomme_
-    * Window : _Bill Gates l'utilise pour son développement logiciel personnel_
+    * Windows : _Bill Gates l'utilise pour son développement logiciel personnel_
 
 ### License
 
